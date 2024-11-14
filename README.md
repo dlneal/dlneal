@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Cybersecurity Ops**
 
-💬 Ask me about **Annyrhing you would like to know about me or my skill set in Cybersecurity**
+💬 Ask me about **Annyrhing you would like to know about me or my skill set in Cybersecurity here [https://github.com/dlneal]**
 
 ⚡ Fun fact **My grandad use to call me "Meatball" when I was a kid!**
 
