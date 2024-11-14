@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+BLVCKYODA;" />
 </h1>
 
-<h3 align="center"> I am a studet in the Savvycoder Cybersecurity Program, born and raised in St. Louis</h3>
+<h3 align="center"> I am a studet in the Savvycoder Cybersecurity Program, Born and Raised in St. Louis</h3>
 
 <br/>
 
